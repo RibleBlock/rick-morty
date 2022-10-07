@@ -1,0 +1,9 @@
+#btback {
+    width: 5rem;
+    height: 5rem;
+    margin: 1.5rem;
+}
+
+#btback a, #btback img {
+    height: 100%;
+}
